@@ -2,8 +2,7 @@
 
 ## Build status
 
-[![Build status](https://travis-ci.org/servicecatalog/oscm-cm-configuration
-.svg?branch=master)](https://travis-ci.org/servicecatalog/oscm-cm-configuration)
+[![Build status](https://travis-ci.org/servicecatalog/oscm-cm-configuration.svg?branch=master)](https://travis-ci.org/servicecatalog/oscm-cm-configuration)
 
 ## Running the application
 
