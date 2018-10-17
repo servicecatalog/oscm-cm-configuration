@@ -3,6 +3,7 @@
 ## Build status
 
 [![Build status](https://travis-ci.org/servicecatalog/oscm-cm-configuration.svg?branch=master)](https://travis-ci.org/servicecatalog/oscm-cm-configuration)
+[![codecov](https://codecov.io/gh/servicecatalog/oscm-cm-configuration/branch/master/graph/badge.svg)](https://codecov.io/gh/servicecatalog/oscm-cm-configuration)
 
 ## Running the application
 
